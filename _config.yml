@@ -20,7 +20,7 @@ author: UTC ACM Officers
 ###############################################
 
 navbar-links:
-  About Me: "about" # title of the md file for the about page
+  About Us: "about" # title of the md file for the about page
   Links:
     - MocSync: "https://mocsyncorgs.utc.edu/organization/computc"
     - GitHub: "https://github.com/UTC-ACM/"
