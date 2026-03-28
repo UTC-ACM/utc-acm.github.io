@@ -105,8 +105,8 @@ share-links-active:
 # Remove this if you don't want a link in the footer
 url-pretty: "utc-acm.github.io"
 
-# URL
-url: "https://utc-acm.github.io/"
+# Base URL
+url: "https://utc-acm.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
