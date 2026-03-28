@@ -14,10 +14,12 @@ Before making changes to the site, you will need to install Jekyll and its depen
 
 - Jekyll docs: https://jekyllrb.com/docs/
 
-- Theme used: https://beautifuljekyll.com/
-
-- How to use the theme: https://beautifuljekyll.com/faq/
-
 - Jekyll start tutorial: https://www.youtube.com/watch?v=F8iOU1ci19Q
 
 - Jekyll tutorial series: https://www.youtube.com/watch?v=VDOyjwWPKs4&list=PL_RrEj88onS_tGzIaWwanw9T1-6gujoHf
+
+- Using page layouts in Jekyll: https://www.youtube.com/watch?v=sYR26cfwzio
+
+- Theme used: https://beautifuljekyll.com/
+  - How to use: https://beautifuljekyll.com/faq/
+
