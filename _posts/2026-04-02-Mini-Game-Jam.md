@@ -13,7 +13,9 @@ author: ACM Officers
 
 📢**Submission deadline:** 4/10 by 8:00 AM
 
-💭**Theme:** To be revealed Apr 6
+💭**Theme:** Short & Sweet
+- Interpret/incorporate as you wish!
+- Following the theme is optional!
 
 **You should join this Game Jam if you want to...**
 * get your feet wet with game development
