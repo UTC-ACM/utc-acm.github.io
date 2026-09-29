@@ -1,15 +1,14 @@
 ---
-
 layout: post
 title: Fall 2026 Game Jam 🕹️
 subtitle: UTC ACM's Fall Game Jam — all skill levels welcome!
 permalink: /fall-game-jam/
-cover-img: /assets/img/gamejamposter.png
-thumbnail-img: /assets/img/gamejamposter.png
-share-img: /assets/img/gamejamposter.png
+cover-img: /assets/img/fallgamejam2026.png
+thumbnail-img: /assets/img/fallgamejam2026.png
+share-img: /assets/img/fallgamejam2026.png
 tags: [events]
 author: ACM Officers
---------------------
+---
 
 📆**Game Jam:** October 2 - October 16, 2026
 
