@@ -1,4 +1,5 @@
 ---
+
 layout: post
 title: Fall 2026 Game Jam 🕹️
 subtitle: UTC ACM's Fall Game Jam — all skill levels welcome!
@@ -8,21 +9,22 @@ thumbnail-img: /assets/img/gamejamposter.png
 share-img: /assets/img/gamejamposter.png
 tags: [events]
 author: ACM Officers
----
+--------------------
 
-📆**Game Jam:** October 2 - October 23, 2026
+📆**Game Jam:** October 2 - October 16, 2026
 
 🎨**Theme Reveal & Kickoff:** Friday, October 2
 
 🕹️**Godot Demo:** Jose Coronado will introduce the basics of game development using Godot.
 
-🏁**Final Showcase:** Friday, October 23
+🏁**Final Showcase:** Friday, October 16
 
 👥**Format:** Solo or teams
 
 ✨**Who can participate:** All skill levels!
 
 **You should join this Game Jam if you want to...**
+
 * try game development for the first time
 * learn how to use a game engine
 * build something playable for your portfolio
@@ -46,6 +48,7 @@ Participants usually work around a shared theme. The goal is not to create a per
 For beginners, game jams are a great way to get started with game development. You don't need to be an expert!
 
 You can work:
+
 * **Solo**
 * **With a team**
 * On programming
@@ -57,6 +60,7 @@ You can work:
 You can also use existing tools, tutorials, libraries, and assets where allowed. The goal is to **learn something, finish something, and have fun!**
 
 Some well-known games that originated as game jam projects include:
+
 * Baba Is You
 * Celeste
 * Superhot
@@ -73,7 +77,7 @@ During the kickoff, we will:
 * 🕹️ Introduce the Godot game engine
 * 👨‍💻 Learn the basics of creating a game in Godot
 * 💡 Discuss ideas and game development tips
-* 👥 Give participants an opportunity to find teammates
+* 👥 Allow participants to find teammates
 * 🚀 Get started on the Game Jam!
 
 **Jose Coronado** will demonstrate the basics of game development using **Godot**, making this a great starting point for anyone who has never created a game before.
@@ -101,7 +105,7 @@ You do not need previous Godot or game development experience to participate.
 
 Don't worry about making everything perfect. Focus on building something playable and learning along the way!
 
-### **October 23 — Final Showcase 🏁**
+### **October 16 — Final Showcase 🏁**
 
 The Game Jam concludes with a showcase where participants can share their games with the ACM community.
 
@@ -121,7 +125,7 @@ Additional information about the showcase format and awards will be announced cl
 3. Participants from other departments are welcome to join your team.
 4. Your game should be created during the Game Jam period.
 5. You may use existing tools, libraries, tutorials, and assets where appropriate.
-6. Use of AI tools is allowed as long as you disclose their use.
+6. **Limited use of AI tools is allowed as long as you disclose their use.**
 7. Do not submit a preexisting or previously completed personal project.
 8. Keep your game appropriate for a general audience.
 9. You may use any game development tool or engine you are comfortable with, although **Godot is recommended for beginners**.
@@ -136,6 +140,7 @@ You can use any game development tools you are comfortable with.
 Godot is a free and open-source game engine used to create 2D and 3D games.
 
 It includes tools for:
+
 * Graphics
 * Physics
 * Animation
@@ -223,7 +228,7 @@ A useful approach is:
 
 ## 🤖 Using AI
 
-AI tools may be used during the Game Jam.
+AI tools may be used in a **limited capacity** during the Game Jam.
 
 You can use AI to help with:
 
@@ -231,8 +236,9 @@ You can use AI to help with:
 * Learning programming concepts
 * Generating or explaining code
 * Debugging
-* Creating placeholder assets
 * Writing documentation
+
+**AI-generated media assets should not be used in submitted games.** This includes AI-generated images, sprites, artwork, music, sound effects, or other media assets.
 
 However, you should understand and take responsibility for the code and content you submit.
 
@@ -244,9 +250,9 @@ However, you should understand and take responsibility for the code and content 
 
 Whether this is your first game or you've been developing games for years, the **UTC ACM Fall Game Jam** is a chance to learn, experiment, collaborate, and create something fun.
 
-🎨 **Theme Reveal:** October 2  
-🕹️ **Godot Introduction:** October 2  
-🏁 **Final Showcase:** October 23
+🎨 **Theme Reveal:** October 2
+🕹️ **Godot Introduction:** October 2
+🏁 **Final Showcase:** October 16
 
 **Come to the kickoff, find out the theme, and start building!**
 
