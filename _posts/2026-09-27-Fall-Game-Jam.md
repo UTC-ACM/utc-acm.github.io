@@ -3,9 +3,9 @@ layout: post
 title: Fall 2026 Game Jam 🕹️
 subtitle: UTC ACM's Fall Game Jam — all skill levels welcome!
 permalink: /fall-game-jam/
-cover-img: /assets/img/fallgamejam2026.png
-thumbnail-img: /assets/img/fallgamejam2026.png
-share-img: /assets/img/fallgamejam2026.png
+cover-img: /assets/img/FallGameJam.png
+thumbnail-img: /assets/img/FallGameJam.png
+share-img: /assets/img/FallGameJam.png
 tags: [events]
 author: ACM Officers
 ---
